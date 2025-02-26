@@ -1,10 +1,10 @@
 {
+  "homepage": "https://robsondsilva90.github.io/my_page/",
   "name": "my-page",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://robsondsilva90.github.io/my_page/",
-  "scripts": {
+    "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
