@@ -15,10 +15,11 @@ import Description from './routes/Description.jsx';
 
 const router = createBrowserRouter([
   {
+    path: "/",
     element: <App />,
     children: [
       {
-        path: "/",
+        path: "/my_page",
         element: <Home />,
       },
       {
