@@ -30,7 +30,7 @@ const Columns = () => {
                 <ul>
                     <li>
                         <p>2025 - 2027</p>
-                        <h4>Analise e Desenvolvimento de Sistemas</h4>
+                        <h4>Análise e Desenvolvimento de Sistemas</h4>
                         <h5>Faculdade Anhanguera Educacional</h5>
                     </li>
                     <li>

@@ -9,7 +9,7 @@ const AboutText = () => {
                     <div>
                         <h2>Objetivo</h2>
                         <h4>Cargo:</h4>
-                        <p>Desenvolvedor Front-end Trainee</p>
+                        <p>Desenvolvedor Front-end Jr</p>
                     </div>
                     <h2>Experiências</h2>
                     <div>
