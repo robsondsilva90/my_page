@@ -28,10 +28,10 @@ const Home = () => {
       <div className="sobre-container">
         <div className="sobre-description">
           <h1>Sobre </h1>
-          <p>Tenho uma ampla experiência em suporte técnico administrando servidores AD, suporte em dispositivos móveis e suporte a sistemas expecificos. 
+          <p>Tenho uma ampla experiência em suporte técnico administrando servidores AD, suporte em dispositivos móveis e suporte a sistemas específicos. 
             Minha trajetória de trabalho comprova minha capacidade de gestão e agilidade em resolver problema técnicos. 
-            Agora estou me dedicando a me aprimorar e elevar meu profissional, atualmente estundado desenvolvimento web. 
-            Tenho certificação em lógica de programação, controle de verões com git e formação completa em Front-end com HTML, CSS, Javascript e React.
+            Agora estou me dedicando a me aprimorar e elevar meu profissional, atualmente estudando desenvolvimento web. 
+            Tenho certificação em lógica de programação, controle de versões com git e formação completa em Front-end com HTML, CSS, JavaScript e React.
           </p>
         </div>
       </div>

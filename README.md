@@ -4,7 +4,7 @@
 
 ## Objetivo
 
-- Página com informações profissionais, projetos e cursos realizados durante o o estudo em desenvolvimento web
+- Página com informações profissionais, projetos e cursos realizados durante o estudo em desenvolvimento web
 
   - **Perfil Profissional**: Página dedicada a informações profissionais
   - **Portfólio de Projetos**: Seção com detalhes dos projetos desenvolvidos.
