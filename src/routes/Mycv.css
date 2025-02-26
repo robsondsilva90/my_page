@@ -1,0 +1,90 @@
+.container-mycv {
+    padding: 30px;
+}
+
+.container-mycv li {
+    text-align: left;
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.container-mycv h1 {
+    text-align: center;
+}
+
+.container-mycv .subtitle {
+    text-align: center;
+}
+
+.information-column {
+    background-color: #1d1d1f;
+    color: #fff;
+    
+}
+
+.information-column a {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+}
+
+.information-column h3 {
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.information-column hr {
+    margin: 18px 0;
+    border: none;
+    border-bottom: 1px solid yellow;
+}
+
+.information-column .myphoto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.information-column img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 1px solid yellow;
+    margin-bottom: 18px;
+}
+
+.education-description p {
+    color: #ffff00;
+}
+
+footer {
+    font-size: 15px;
+    text-align: right;
+}
+
+@media (min-width: 1000px) {
+    .responsiveness {
+        display: flex;
+        margin: 0 auto;
+    }
+
+    .education-description p {
+        margin-bottom: 0;
+    }
+}
+
+
+@media (min-width: 1500px) {
+    .responsiveness {
+        display: flex;
+        margin: 0 auto;
+        width: 80%;
+    }
+
+    .education-description p {
+        margin-bottom: 0;
+    }
+    .container-mycv {
+        border-right: 1px solid #1d1d1f21;
+    }
+}

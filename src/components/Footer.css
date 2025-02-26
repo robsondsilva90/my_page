@@ -1,0 +1,11 @@
+footer {
+    display: flex;
+    justify-content: right;
+    background-color: #1d1d1f;
+    padding: 0.5em 1em;
+    color: yellow;
+}
+
+footer p {
+    font-size: 12px;
+}

@@ -1,0 +1,27 @@
+.education-description {
+    color: #fff;
+}
+
+.education-description a {
+    padding: 0;
+}
+
+i {
+    color: #ffff00;
+}
+
+.language-description .percent {
+    height: 6px;
+    background-color: #727211;
+    margin-top: 5px;
+    width: 100%;
+}
+
+.language-description .percent div {
+    height: 6px;
+    background-color: #ffff00;
+}
+
+.language-description .percent.inglish div {
+    width: 30%;
+}

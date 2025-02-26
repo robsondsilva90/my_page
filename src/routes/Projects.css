@@ -1,0 +1,85 @@
+.myprojects-body {
+    flex-direction: column;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1d1d1f;
+    color: #fff;
+}
+
+.title {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.myswiper .swiper-button-next,
+.myswiper .swiper-button-prev {
+    color: yellow;
+}
+
+.myswiper .swiper-pagination-bullet {
+    background-color: yellow; /* Substitua pela cor desejada */
+  }
+
+.myswiper .swiper-pagination-bullet-active {
+    color: rgb(121, 121, 106); /* Substitua pela cor desejada */
+}
+
+.swiper-slide {
+    display: flex;
+
+}
+
+.slider-item-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.swiper {
+    width: 350px;
+    height: 280px;
+}
+
+.slider-item-container img {
+    width: 250px;
+    height: 160px;
+}
+
+.slider-item-container a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.slider-item {
+    width: 70%;
+    height: 55%;
+}
+
+@media (min-width: 800px) {
+    .swiper {
+        width: 600px;
+        height: 440px;
+    }
+    .slider-item-container img {
+        width: 500px;
+        height: 340px;
+    }
+}
+
+@media (min-width: 1900px) {
+    .swiper {
+        width: 800px;
+        height: 640px;
+    }
+    .slider-item-container img {
+        width: 700px;
+        height: 540px;
+    }
+}

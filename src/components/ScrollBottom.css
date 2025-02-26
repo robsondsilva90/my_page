@@ -1,0 +1,19 @@
+.scroll-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: transparent;
+    border: none;
+    padding: 15px 5px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.scroll-button i {
+    color: rgb(117, 117, 42);
+    font-size: 20px;
+}
+
+@media (min-width: 800px) {
+    
+    }
